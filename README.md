@@ -4,5 +4,4 @@
   Matakuliah "Pemrograman Berbasis Object"
 </h2> 
 <br>
-<br>
 Muhammad Nurul Fatwa Al Fajar (51422104)
